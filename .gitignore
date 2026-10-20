@@ -1,0 +1,13 @@
+# Folder Dependensi (Ukuran besar, tidak perlu di-upload)
+node_modules/
+
+# Kredensial & Sesi WhatsApp (SANGAT RAHASIA, JANGAN DI-UPLOAD!)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Log Eror & Sistem
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
